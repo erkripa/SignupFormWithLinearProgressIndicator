@@ -20,11 +20,11 @@ To get started with the SignUpApp, you need to have Flutter installed on your de
 
 ## Installation
 
-1. **Clone the repository:**
+1. **Download the zip file or clone the repo:**
 
    ```bash
-   git clone https://github.com/erkripa/SignUpApp.git
-   cd SignUpApp
+   git clone https://github.com/erkripa/SignupFormWithLinearProgressIndicator
+   cd SignupFormWithLinearProgressIndicator
    ```
 
 2. **Fetch the required dependencies:**
